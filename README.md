@@ -31,6 +31,12 @@ yarn develop # or gatsby develop
 
 TODO
 
+# Contributing
+
+- We abide by our design system
+- We use tailwind as much as possible to enforce consistency
+- Will add more about PRs soon
+
 # Contributors
 
 Eric Boggs ([@boggsey](https://www.linkedin.com/in/etboggs/))
