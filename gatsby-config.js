@@ -38,6 +38,7 @@ module.exports = {
         path: `${__dirname}/content/`,
       },
     },
+    'gatsby-plugin-postcss',
     {
       resolve: "gatsby-transformer-remark",
       options: {
