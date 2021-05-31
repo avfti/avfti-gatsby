@@ -38,7 +38,6 @@ module.exports = {
         path: `${__dirname}/content/`,
       },
     },
-    'gatsby-plugin-postcss',
     {
       resolve: "gatsby-transformer-remark",
       options: {
@@ -73,6 +72,7 @@ module.exports = {
         color: config.themeColor,
       },
     },
+    'gatsby-plugin-postcss',
     "gatsby-plugin-image",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",

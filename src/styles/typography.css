@@ -1,0 +1,38 @@
+@layer base {
+  body {
+    @apply text-base font-body;
+  }
+  h1 {
+    @apply text-2xl py-4;
+  }
+  h2 {
+    @apply text-xl font-bold py-2;
+  }
+  h3 {
+    @apply text-lg;
+  }
+  input {
+    @apply w-full mt-2 mb-0 px-4 py-2 block border border-gray-300 rounded-sm text-gray-700;
+  }
+  textarea {
+    @apply w-full border border-gray-300 px-3 py-2 text-gray-700 rounded-sm;
+  }
+
+  @font-face {
+    font-family: brother-1816;
+    font-weight: 400;
+    src: url(/fonts/brother-1816-regular.woff) format("woff");
+  }
+
+  @font-face {
+    font-family: brother-1816;
+    font-weight: 500;
+    src: url(/fonts/brother-1816-medium.woff) format("woff");
+  }
+
+  @font-face {
+    font-family: brother-1816;
+    font-weight: 700;
+    src: url(/fonts/brother-1816-bold.woff) format("woff");
+  }
+}

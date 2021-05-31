@@ -1,0 +1,39 @@
+header {
+  @apply flex w-full bg-black mb-8 py-6;
+}
+
+.nav-wrapper {
+  @apply flex flex-row justify-between items-center;
+
+  .logo {
+    width: 20%;
+
+    img {
+      width: 55px;
+    }
+  }
+
+  nav {
+    a {
+      @apply inline-block font-heavy text-white font-bold p-3 uppercase hover:text-black hover:bg-white;
+    }
+  }
+
+  .primary-navigation {
+    @apply flex justify-center;
+    width: 60%;
+  }
+
+  .action-menu {
+    @apply flex justify-end;
+    width: 20%;
+  }
+}
+
+.account-navigation {
+  @apply bg-black text-right;
+
+  a {
+    @apply inline-block text-white px-2;
+  }
+}
