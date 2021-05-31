@@ -1,5 +1,5 @@
 <div align="center"  style="margin-bottom:30px">
-    <img src="static/logos/logo-1024.png" alt="Logo" width='200px' height='200px'/>
+    <img src="static/logos/avfti-logo.png" alt="A Voice for the Innocent Logo" width='200px' height='200px'/>
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 # A Voice for the Innocent
 
-A Voice for the Innocent is a non-profit community dedicated to the support of those affected by sexual violence by offering a safe and compassionate space to share stories and seek help. All of our projects are created and maintained by volunteers. We're always looking for additional help with React/Gatsby, Elixir/Phoenix, Infrastructure and Security. Please reach out!
+A Voice for the Innocent is a non-profit community dedicated to the support of those affected by sexual violence by offering a safe and compassionate space to share stories and seek help. All of our projects are created and maintained by volunteers. We're always looking for additional help with [React/Gatsby](https://github.com/avfti/avfti-gatsby), [Elixir/Phoenix](https://github.com/avfti/avfti-phoenix), Infrastructure and Security. Please reach out!
 
 # Project Details
 
