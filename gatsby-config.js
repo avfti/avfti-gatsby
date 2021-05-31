@@ -72,7 +72,7 @@ module.exports = {
         color: config.themeColor,
       },
     },
-    'gatsby-plugin-postcss',
+    "gatsby-plugin-postcss",
     "gatsby-plugin-image",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
