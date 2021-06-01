@@ -2,7 +2,7 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
-@import "./global.css";
-@import "./typography.css";
-@import "./nav.css";
-@import "./footer.css";
+@import "./global/global.css";
+@import "./global/typography.css";
+@import "./global/nav.css";
+@import "./global/footer.css";
