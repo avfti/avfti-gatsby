@@ -1,0 +1,13 @@
+.hero-mission {
+  @apply flex justify-center items-center text-center bg-black;
+
+  padding: 150px 0;
+
+  .hero-container {
+    @apply w-full md:w-1/3;
+  }
+
+  .hero-description {
+    @apply font-medium text-white pb-8 tracking-wide text-lg;
+  }
+}

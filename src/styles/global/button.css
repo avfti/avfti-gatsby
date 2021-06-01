@@ -1,0 +1,15 @@
+.btn-primary {
+  @apply inline-block bg-primary hover:bg-primary-hover border-2 border-primary hover:border-primary-hover text-white p-2 font-bold;
+}
+
+.btn-ghost {
+  @apply inline-block bg-black text-white text-center p-2 font-bold border-2 border-white hover:bg-white hover:text-black;
+}
+
+.btn-full {
+  @apply block w-full bg-black text-white text-center p-2 font-bold border-2 border-black hover:bg-white hover:text-black;
+}
+
+.btn-full-alt {
+  @apply block w-full bg-white text-black text-center p-2 font-bold border-2 border-black hover:bg-black hover:text-white;
+}

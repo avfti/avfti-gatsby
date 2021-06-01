@@ -1,5 +1,5 @@
 header {
-  @apply flex w-full bg-black mb-8 py-6;
+  @apply flex w-full bg-black py-6;
 }
 
 .nav-wrapper {
