@@ -10,10 +10,10 @@ function Navigation() {
           </a>
           <nav role="navigation">
             <a href="/stories">Stories</a>
-            <a href="https://www.avoicefortheinnocent.org/help/">Find Help</a>
-            <a href="https://www.avoicefortheinnocent.org/about/">About</a>
-            <a href="https://www.avoicefortheinnocent.org/get-involved/">Get Involved</a>
-            <a href="https://www.avoicefortheinnocent.org/blog/">Articles</a>
+            <a href="/help/">Find Help</a>
+            <a href="/about/">About</a>
+            <a href="/get-involved/">Get Involved</a>
+            <a href="/blog/">Articles</a>
           </nav>
           <nav className="action-menu">
             <a href="">Store</a>

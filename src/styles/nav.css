@@ -17,7 +17,7 @@ header {
     a {
       @apply inline-block text-white text-base font-bold p-3 uppercase hover:text-black hover:bg-white;
       
-      letter-spacing: 1px;
+      letter-spacing: 1.5px;
     }
   }
 

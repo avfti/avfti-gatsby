@@ -1,0 +1,35 @@
+footer {
+  @apply flex w-full bg-black mt-8 pt-6 pb-6;
+
+  hr {
+    border-top-color: #2e2e2e;
+    border-top-width: 2px;
+  }
+
+  .social-networks {
+    @apply py-6 flex flex-row;
+    
+    a {
+      @apply inline-flex text-center hover:bg-gray-800 items-center justify-center mr-2;
+
+      background-color: #171717;
+      width: 40px;
+      height: 40px;
+      color: #878787;
+    }
+  }
+
+  .additional-links {
+    @apply flex flex-col w-full py-4 md:w-3/12;
+
+    h3 {
+      @apply text-white pb-4;
+    }
+
+    a {
+      @apply w-full md:w-4/5 block border-b text-gray-400 py-2 hover:text-white;
+
+      border-color:#2e2e2e;
+    }
+  }
+}
