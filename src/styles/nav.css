@@ -15,7 +15,9 @@ header {
 
   nav {
     a {
-      @apply inline-block font-heavy text-white font-bold p-3 uppercase hover:text-black hover:bg-white;
+      @apply inline-block text-white text-base font-bold p-3 uppercase hover:text-black hover:bg-white;
+      
+      letter-spacing: 1px;
     }
   }
 

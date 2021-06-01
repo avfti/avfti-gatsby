@@ -5,6 +5,9 @@ function Navigation() {
     <header>
       <section className="container">
         <div className="nav-wrapper">
+          <a href="/" className="logo">
+            <img src="/logos/avfti-logo-icon.png" alt="A Voice for the Innocent Logo" />
+          </a>
           <nav role="navigation">
             <a href="/stories">Stories</a>
             <a href="https://www.avoicefortheinnocent.org/help/">Find Help</a>
