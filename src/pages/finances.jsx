@@ -1,7 +1,6 @@
 import React from "react";
 import { Helmet } from "react-helmet";
 import Layout from "../layout";
-import About from "../components/About/About";
 import config from "../../data/SiteConfig";
 
 function FinancesPage() {
@@ -9,7 +8,7 @@ function FinancesPage() {
     <Layout>
       <div className="about-container">
         <Helmet title={`Finances | ${config.siteTitle}`} />
-        <About />
+        <h1>Finances</h1>
       </div>
     </Layout>
   );
