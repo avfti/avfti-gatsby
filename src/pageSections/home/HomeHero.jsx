@@ -4,9 +4,13 @@ function HomeHero() {
   return (
     <div className="hero-mission">
       <div className="hero-container">
-        <p className="hero-description">A Voice for the Innocent is a non-profit community dedicated to the support of those affected by rape and sexual abuse by offering a safe and compassionate space to share stories and seek help.</p>
-        <a href="/tell-story/" className="btn-primary mb-4 mr-2">Tell Your Story</a>
-        <a href="/about/" className="btn-ghost">Learn About AVFTI</a>
+        <h1 className="text-primary">A Voice for the Innocent has closed</h1>
+        <p className="hero-description">It is with great sadness that we announce the closure of A Voice for the Innocent. We began as a non-profit in 2012 and served the community until 2022. We were a passionate group of volunteers dedicated to the support of those affected by sexual violence.</p>
+
+        <p className="hero-description">We have distributed all of our assets, in accordance with state law, to the <a href="https://ioncenter.org/" className="underline">Ion Center for Violence Prevention</a> who has been incredibly instrumental in the growth of our organization.</p>
+
+        <h2 className="text-secondary">Thanks</h2>
+        <p className="text-white">Our amazing storytellers, volunteers, board members and donors. All organizations who helped fund us, supported us or helped further our mission.</p>
       </div>
     </div>
   );
